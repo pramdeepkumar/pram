@@ -8,4 +8,4 @@ This is a python calculator project>
 -Division
 
 ##How to run
-python power.py
+pram.c
