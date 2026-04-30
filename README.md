@@ -1,11 +1,11 @@
 # simple calulator
-This is a python calculator project>
+This is a python simple ludo>
 
 ##fetures
--Addition
--Subtraction
--multiplication
--Division
+-home
+-winner
+-looser
+-draw
 
 ##How to run
-pram.c
+ludo.py
